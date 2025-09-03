@@ -1,6 +1,4 @@
-### Assignment-1
+### CSCR3207 Assignment-1
 
 #### Submitted By: 
-> Priyanshu Gupta
-<br/>
-> 2023359463
+> Priyanshu Gupta (2023359463)
